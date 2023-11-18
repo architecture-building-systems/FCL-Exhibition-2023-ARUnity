@@ -226,7 +226,7 @@ The following table summarizes the code for Zurich case, the Sinagpore case shar
 ![Zurich Energy Trade](RESULTS/ZurichEnergyTrade.gif)   
 
 **Singapore Energy Trade**   
-![Singapore Energy Trade](RESULTS/SingaporeEnergyTrade.gif)   
+![Singapore Energy Trade](RESULTS/SingEnergyTrade.gif)   
 
 The social economics module illustrates energy trading among buildings in the area over the course of a day. When a building's PV panel generates surplus electricity, it trades it with neighboring buildings. Buildings turn blue when selling excess energy, displaying the amount in kWh above them, while those purchasing electricity turn yellow, showing the electricity they receive. Arrows indicate the trading direction and amount (indicated by arrow width).   
 
